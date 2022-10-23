@@ -68,14 +68,15 @@ We plan to investigate some of the related issues:
 
 ## 7. References
 
-1. Paul Viola, Michael Jones. (April 15, 2021). Rapid Object Detection using a Boosted Cascade of Simple Features. https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf 
-2. OpenCV. (April 15, 2021). Face Detection using Haar Cascades. https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html 
-3. Girija Shankar Behera. (April 15, 2021). Face Detection with Haar Cascade. https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08 
-4. Adarsh Menon. (April 15, 2021). Face Detection in 2 Minutes using OpenCV & Python. https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81 
-5. Parul Pandey. (April 15, 2021). Face Detection with Python using OpenCV. https://www.datacamp.com/community/tutorials/face-detection-python-opencv 6. Stack Abuse. 6. (April 15, 2021). Facial Detection in Python with OpenCV. https://stackabuse.com/facial-detection-in-python-with-opencv/ 
-7. Hussain Mujtaba. (April 15, 2021). Face Recognition with Python and OpenCV. https://www.mygreatlearning.com/blog/face-recognition/ 
-8. GeekforGeeks. (April 15, 2021). OpenCV C++ Program for Face Detection. https://www.geeksforgeeks.org/opencv-c-program-face-detection/ 
-9. Valeriia Koriukina. (April 15, 2021). Using Facial Landmarks for Overlaying Faces with Masks. https://learnopencv.com/tag/face-detection/ 
-10. Vikas Gupta. (April 15, 2021). Face Detection - OpenCV, Dlib and Deep Learning ( C++ / Python ). https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/ 
-11. Min Sun. (April 15, 2021). OpenCV - Face Detection. https://www.cs.princeton.edu/courses/archive/fall08/cos429/CourseMaterials/Precept1/facedetect.pdf 
-12. BeWagner. (April 15, 2021). Building a face detector with OpenCV in C++. https://bewagner.net/programming/2020/04/12/building-a-face-detector-with-opencv-in-cpp/
+1. Paul Viola, Michael Jones. Rapid Object Detection using a Boosted Cascade of Simple Features. Retrieved from: https://www.cs.cmu.edu/~efros/courses/LBMV07/Papers/viola-cvpr-01.pdf (October 12th, 2022).
+2. OpenCV. Face Detection using Haar Cascades. Retrieved from: https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html  (October 12th, 2022).
+3. Girija Shankar Behera. Face Detection with Haar Cascade. Retrieved from: https://towardsdatascience.com/face-detection-with-haar-cascade-727f68dafd08  (October 12th, 2022).
+4. Adarsh Menon. Face Detection in 2 Minutes using OpenCV & Python. Retrieved from: https://towardsdatascience.com/face-detection-in-2-minutes-using-opencv-python-90f89d7c0f81  (October 12th, 2022).
+5. Parul Pandey. Face Detection with Python using OpenCV. Retrieved from: https://www.datacamp.com/community/tutorials/face-detection-python-opencv 
+6. Stack Abuse. Facial Detection in Python with OpenCV. Retrieved from: https://stackabuse.com/facial-detection-in-python-with-opencv/  (October 12th, 2022).
+7. Hussain Mujtaba. Face Recognition with Python and OpenCV. Retrieved from: https://www.mygreatlearning.com/blog/face-recognition/  (October 12th, 2022).
+8. GeekforGeeks. OpenCV C++ Program for Face Detection. Retrieved from: https://www.geeksforgeeks.org/opencv-c-program-face-detection/  (October 12th, 2022).
+9. Valeriia Koriukina. Using Facial Landmarks for Overlaying Faces with Masks. Retrieved from: https://learnopencv.com/tag/face-detection/  (October 12th, 2022).
+10. Vikas Gupta. Face Detection - OpenCV, Dlib and Deep Learning ( C++ / Python ). Retrieved from: https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/  (October 12th, 2022).
+11. Min Sun. OpenCV - Face Detection. Retrieved from: https://www.cs.princeton.edu/courses/archive/fall08/cos429/CourseMaterials/Precept1/facedetect.pdf  (October 12th, 2022).
+12. BeWagner. Building a face detector with OpenCV in C++. Retrieved from: https://bewagner.net/programming/2020/04/12/building-a-face-detector-with-opencv-in-cpp/  (October 12th, 2022).
