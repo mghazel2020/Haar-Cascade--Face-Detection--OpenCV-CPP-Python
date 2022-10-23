@@ -23,15 +23,22 @@ Viola and Jones proposed popularly,  Haar Cascades face detector, the first ever
 
 OpenCV comes with a pre-trained Haar Cascades for detecting human faces and eyes. In this project, we shall deploy these detectors to detect human faces and eyes from various types types of test images as well as live video stream. 
 
-
-
 3. Data
-
-
 
 We shall deploy the  Haar Cascades face detector  to detect human faces and eyes from various types types of test images as well as live video stream. 
 
 
+## 4. Sample Face and Eyes Detection Results
+
+In this section, we illustrate sample face and eyes detection results from still imagery and live video frames.
+
+### 4.1 Detection from Images
+
+<table>
+  <tr>
+    <td> <img src="figures/Still-Images-Face-Eyes-Detections.png" width="1000" ></td>
+  </tr>
+</table>
 
 
 # Video-Face-Detection-Recognition--OpenCV-Cpp
