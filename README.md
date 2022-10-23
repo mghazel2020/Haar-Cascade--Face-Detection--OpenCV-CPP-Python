@@ -21,7 +21,7 @@ OpenCV comes with a pre-trained Haar Cascades for detecting human faces and eyes
 
 ## 3. Data
 
-We shall deploy the  Haar Cascades face detector  to detect human faces and eyes from various types types of test images as well as live video stream. 
+We shall deploy the  Haar Cascades face detector  to detect human faces and eyes from various still test images as well as live video stream. 
 
 ## 4. Sample Face and Eyes Detection Results
 
