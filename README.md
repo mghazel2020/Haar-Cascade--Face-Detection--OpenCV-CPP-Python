@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td> <img src="figures/face-detection-haar-cascades.webp" width="500"  ></td>
+    <td> <img src="figures/face-detection-haar-cascades.webp" width="1000"  ></td>
   </tr>
 </table>
 
